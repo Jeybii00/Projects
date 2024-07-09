@@ -14,12 +14,12 @@ Hard Coded &amp; Wordpress Projects
 This is by far my longest and well renowed project for me, because this is my capstone project during my seniors years on college.
 
 ## Built With
-1. HTML
-2. CSS
-3. Php
-4. JavaScript
-5. AJAX
-6. Bootstrap
+* HTML
+* CSS
+* Php
+* JavaScript
+* AJAX
+* Bootstrap
 
 ## About the Project
 ### Cups & Coffee Website Landing Page
