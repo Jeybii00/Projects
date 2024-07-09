@@ -20,6 +20,7 @@ This is by far my longest and well renowed project for me, because this is my ca
 * JavaScript
 * AJAX
 * Bootstrap
+* MySQL
 
 ## About the Project
 ### Cups & Coffee Website Landing Page
@@ -27,14 +28,16 @@ This is by far my longest and well renowed project for me, because this is my ca
 ## Screenshots
 ![project-1](https://github.com/Jeybii00/Projects/assets/172424335/03004e38-8395-4ed3-92f4-461ca8032655)
 
-This website design is for coffee and sweets delicacies shops and it helps them to boost their online presence and sales.
+This website design is built with wordpress and CSS customization plugin,
+and this design is for coffee and sweets delicacies shops and it helps them to boost their online presence and sales.
 
 ## Built With
-*Wordpress
-*HTML
-*CSS
-*Php
-*JavaScript
+* HTML
+* CSS
+* Php
+* JavaScript
+* Wordpress
+* MySQL
 
 ## About the Project
 ### Sports Gear Website Landing Page
@@ -42,7 +45,8 @@ This website design is for coffee and sweets delicacies shops and it helps them 
 ## Screenshots
 ![project-2](https://github.com/Jeybii00/Projects/assets/172424335/a0c20f71-eebb-495e-93e7-b720a982a37b)
 
-This website design is for e-commerce shops like a sports gear shops.
+This website design is built with wordpress and CSS customization plugin,
+and this design is for e-commerce shops like a sports gear shops.
 
 ## Built With
 *Wordpress
@@ -50,6 +54,7 @@ This website design is for e-commerce shops like a sports gear shops.
 *CSS
 *Php
 *JavaScript
+* MySQL
 
 ## About the Project
 ### Mugs Website Landing Page
@@ -57,14 +62,16 @@ This website design is for e-commerce shops like a sports gear shops.
 ## Screenshots
 ![project-3](https://github.com/Jeybii00/Projects/assets/172424335/bec67157-55d3-4474-9c82-33cd7cb93ac9)
 
-This website design is for e-commerce shops like a mug shops.
+This website design is built with wordpress and CSS customization plugin,
+and design is for e-commerce shops like a mug shops.
 
 ## Built With
-*Wordpress
-*HTML
-*CSS
-*Php
-*JavaScript
+* Wordpress
+* HTML
+* CSS
+* Php
+* JavaScript
+* MySQL
 
 ## About the Project
 ### Plants Website Landing Page
@@ -72,14 +79,16 @@ This website design is for e-commerce shops like a mug shops.
 ## Screenshots
 ![project-4](https://github.com/Jeybii00/Projects/assets/172424335/43ccccd0-b289-47b0-bc63-5a4d0875128c)
 
-This website design is for e-commerce shops like a plant shops.
+This website design is built with wordpress and CSS customization plugin,
+and this design is for e-commerce shops like a plant shops.
 
 ## Built With
-*Wordpress
-*HTML
-*CSS
-*Php
-*JavaScript
+* Wordpress
+* HTML
+* CSS
+* Php
+* JavaScript
+* MySQL
 
 
 
