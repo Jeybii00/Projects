@@ -1,5 +1,6 @@
-
+<p align="center">
 ![logo-modified](https://github.com/Jeybii00/Projects/assets/172424335/8aa218cb-d11e-4064-abc1-4bfdc00867e5)
+</p>
 
 # Projects
 Hard Coded &amp; Wordpress Projects
@@ -49,11 +50,11 @@ This website design is built with wordpress and CSS customization plugin,
 and this design is for e-commerce shops like a sports gear shops.
 
 ## Built With
-*Wordpress
-*HTML
-*CSS
-*Php
-*JavaScript
+* Wordpress
+* HTML
+* CSS
+* Php
+* JavaScript
 * MySQL
 
 ## About the Project
