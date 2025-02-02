@@ -1,6 +1,8 @@
-<p align="center">
-![logo-modified](https://github.com/Jeybii00/Projects/assets/172424335/8aa218cb-d11e-4064-abc1-4bfdc00867e5)
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github.com/Jeybii00/Projects/assets/172424335/8aa218cb-d11e-4064-abc1-4bfdc00867e5"" style="vertical-align: top;" />
+  </div>
+</div>
 
 # Projects
 Hard Coded &amp; Wordpress Projects
