@@ -1,29 +1,5 @@
-<div align="center">
-  <div style="display: flex;">
-    <img src="https://github.com/Jeybii00/Projects/assets/172424335/8aa218cb-d11e-4064-abc1-4bfdc00867e5"" style="vertical-align: top;" />
-  </div>
-</div>
-
 # Projects
 Hard Coded &amp; Wordpress Projects
-
-
-## About the Project
-### ILECO-1 Web-Based Consumers Portal
-
-## Screenshots
-![project-5](https://github.com/Jeybii00/Projects/assets/172424335/fbf6014e-2bc7-45a2-854d-f08bd8305111)
-
-This is by far my longest and well renowed project for me, because this is my capstone project during my seniors years on college.
-
-## Built With
-* HTML
-* CSS
-* Php
-* JavaScript
-* AJAX
-* Bootstrap
-* MySQL
 
 ## About the Project
 ### Cups & Coffee Website Landing Page
